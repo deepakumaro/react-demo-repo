@@ -1,0 +1,29 @@
+.centered {
+  padding : 50px;
+  margin : 100px;
+  border : 2px solid white;
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid white;
+  color: white;
+  font-size: 20px;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+  color: black;
+}
